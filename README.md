@@ -70,4 +70,4 @@ This repository presents a machine learning solution to predict the **popularity
 
 ## ✉️ Contact
 
-For more info or collaboration, connect via [LinkedIn](https://www.linkedin.com/in/pabloferraro99).
+For more info or collaboration, connect via [LinkedIn](https://www.linkedin.com/in/ferraro-pablo).
